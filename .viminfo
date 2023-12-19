@@ -12,7 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
+<<<<<<< HEAD
 |2,0,1702980855,,"wq!"
+=======
+|2,0,1702980791,,"wq!"
+>>>>>>> amzi
 :q!
 |2,0,1702968377,,"q!"
 
@@ -27,8 +31,13 @@
 # Registers:
 
 # File marks:
+<<<<<<< HEAD
 '0  1  21  ~/file1
 |4,48,1,21,1702980855,"~/file1"
+=======
+'0  1  19  ~/file1
+|4,48,1,19,1702980791,"~/file1"
+>>>>>>> amzi
 '1  1  18  ~/nikhil/day2.txt
 |4,49,1,18,1702969472,"~/nikhil/day2.txt"
 '2  12  33  ~/nikhil/day1.txt
@@ -49,8 +58,13 @@
 |4,57,2,30,1702968275,"~/nikhil/day1.txt"
 
 # Jumplist (newest first):
+<<<<<<< HEAD
 -'  1  21  ~/file1
 |4,39,1,21,1702980855,"~/file1"
+=======
+-'  1  19  ~/file1
+|4,39,1,19,1702980791,"~/file1"
+>>>>>>> amzi
 -'  1  18  ~/nikhil/day2.txt
 |4,39,1,18,1702969472,"~/nikhil/day2.txt"
 -'  1  18  ~/nikhil/day2.txt
@@ -253,11 +267,19 @@
 # History of marks within files (newest to oldest):
 
 > ~/file1
+<<<<<<< HEAD
 	*	1702980853	0
 	"	1	21
 	^	1	22
 	.	1	21
 	+	1	21
+=======
+	*	1702980788	0
+	"	1	19
+	^	1	20
+	.	1	19
+	+	1	19
+>>>>>>> amzi
 
 > ~/nikhil/day2.txt
 	*	1702969471	0
