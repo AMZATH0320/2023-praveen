@@ -1,0 +1,2 @@
+#!bin/bash
+hi Amzat khan How are you whre are you ??
