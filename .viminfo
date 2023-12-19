@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1702969472,,"wq!"
+|2,0,1702980791,,"wq!"
 :q!
 |2,0,1702968377,,"q!"
 
@@ -27,20 +27,20 @@
 # Registers:
 
 # File marks:
-'0  1  18  ~/nikhil/day2.txt
-|4,48,1,18,1702969472,"~/nikhil/day2.txt"
-'1  12  33  ~/nikhil/day1.txt
-|4,49,12,33,1702969117,"~/nikhil/day1.txt"
-'2  6  36  ~/nikhil/day1.txt
-|4,50,6,36,1702968377,"~/nikhil/day1.txt"
+'0  1  19  ~/file1
+|4,48,1,19,1702980791,"~/file1"
+'1  1  18  ~/nikhil/day2.txt
+|4,49,1,18,1702969472,"~/nikhil/day2.txt"
+'2  12  33  ~/nikhil/day1.txt
+|4,50,12,33,1702969117,"~/nikhil/day1.txt"
 '3  6  36  ~/nikhil/day1.txt
 |4,51,6,36,1702968377,"~/nikhil/day1.txt"
 '4  6  36  ~/nikhil/day1.txt
-|4,52,6,36,1702968334,"~/nikhil/day1.txt"
+|4,52,6,36,1702968377,"~/nikhil/day1.txt"
 '5  6  36  ~/nikhil/day1.txt
 |4,53,6,36,1702968334,"~/nikhil/day1.txt"
-'6  2  30  ~/nikhil/day1.txt
-|4,54,2,30,1702968275,"~/nikhil/day1.txt"
+'6  6  36  ~/nikhil/day1.txt
+|4,54,6,36,1702968334,"~/nikhil/day1.txt"
 '7  2  30  ~/nikhil/day1.txt
 |4,55,2,30,1702968275,"~/nikhil/day1.txt"
 '8  2  30  ~/nikhil/day1.txt
@@ -49,12 +49,24 @@
 |4,57,2,30,1702968275,"~/nikhil/day1.txt"
 
 # Jumplist (newest first):
+-'  1  19  ~/file1
+|4,39,1,19,1702980791,"~/file1"
+-'  1  18  ~/nikhil/day2.txt
+|4,39,1,18,1702969472,"~/nikhil/day2.txt"
 -'  1  18  ~/nikhil/day2.txt
 |4,39,1,18,1702969472,"~/nikhil/day2.txt"
 -'  12  33  ~/nikhil/day1.txt
 |4,39,12,33,1702969117,"~/nikhil/day1.txt"
 -'  12  33  ~/nikhil/day1.txt
 |4,39,12,33,1702969117,"~/nikhil/day1.txt"
+-'  12  33  ~/nikhil/day1.txt
+|4,39,12,33,1702969117,"~/nikhil/day1.txt"
+-'  12  33  ~/nikhil/day1.txt
+|4,39,12,33,1702969117,"~/nikhil/day1.txt"
+-'  6  36  ~/nikhil/day1.txt
+|4,39,6,36,1702969096,"~/nikhil/day1.txt"
+-'  6  36  ~/nikhil/day1.txt
+|4,39,6,36,1702969096,"~/nikhil/day1.txt"
 -'  6  36  ~/nikhil/day1.txt
 |4,39,6,36,1702969096,"~/nikhil/day1.txt"
 -'  6  36  ~/nikhil/day1.txt
@@ -63,6 +75,14 @@
 |4,39,6,36,1702968377,"~/nikhil/day1.txt"
 -'  6  36  ~/nikhil/day1.txt
 |4,39,6,36,1702968377,"~/nikhil/day1.txt"
+-'  6  36  ~/nikhil/day1.txt
+|4,39,6,36,1702968377,"~/nikhil/day1.txt"
+-'  6  36  ~/nikhil/day1.txt
+|4,39,6,36,1702968377,"~/nikhil/day1.txt"
+-'  6  36  ~/nikhil/day1.txt
+|4,39,6,36,1702968334,"~/nikhil/day1.txt"
+-'  6  36  ~/nikhil/day1.txt
+|4,39,6,36,1702968334,"~/nikhil/day1.txt"
 -'  6  36  ~/nikhil/day1.txt
 |4,39,6,36,1702968334,"~/nikhil/day1.txt"
 -'  6  36  ~/nikhil/day1.txt
@@ -79,6 +99,22 @@
 |4,39,2,30,1702968305,"~/nikhil/day1.txt"
 -'  2  30  ~/nikhil/day1.txt
 |4,39,2,30,1702968305,"~/nikhil/day1.txt"
+-'  2  30  ~/nikhil/day1.txt
+|4,39,2,30,1702968305,"~/nikhil/day1.txt"
+-'  2  30  ~/nikhil/day1.txt
+|4,39,2,30,1702968305,"~/nikhil/day1.txt"
+-'  2  30  ~/nikhil/day1.txt
+|4,39,2,30,1702968305,"~/nikhil/day1.txt"
+-'  2  30  ~/nikhil/day1.txt
+|4,39,2,30,1702968305,"~/nikhil/day1.txt"
+-'  2  30  ~/nikhil/day1.txt
+|4,39,2,30,1702968305,"~/nikhil/day1.txt"
+-'  2  30  ~/nikhil/day1.txt
+|4,39,2,30,1702968305,"~/nikhil/day1.txt"
+-'  2  30  ~/nikhil/day1.txt
+|4,39,2,30,1702968275,"~/nikhil/day1.txt"
+-'  2  30  ~/nikhil/day1.txt
+|4,39,2,30,1702968275,"~/nikhil/day1.txt"
 -'  2  30  ~/nikhil/day1.txt
 |4,39,2,30,1702968275,"~/nikhil/day1.txt"
 -'  2  30  ~/nikhil/day1.txt
@@ -99,6 +135,26 @@
 |4,39,1,0,1702968182,"~/nikhil/day1.txt"
 -'  1  0  ~/nikhil/day1.txt
 |4,39,1,0,1702968182,"~/nikhil/day1.txt"
+-'  1  0  ~/nikhil/day1.txt
+|4,39,1,0,1702968182,"~/nikhil/day1.txt"
+-'  1  0  ~/nikhil/day1.txt
+|4,39,1,0,1702968182,"~/nikhil/day1.txt"
+-'  1  0  ~/nikhil/day1.txt
+|4,39,1,0,1702968182,"~/nikhil/day1.txt"
+-'  1  0  ~/nikhil/day1.txt
+|4,39,1,0,1702968182,"~/nikhil/day1.txt"
+-'  1  0  ~/nikhil/day1.txt
+|4,39,1,0,1702968182,"~/nikhil/day1.txt"
+-'  1  0  ~/nikhil/day1.txt
+|4,39,1,0,1702968182,"~/nikhil/day1.txt"
+-'  1  0  ~/nikhil/day1.txt
+|4,39,1,0,1702968182,"~/nikhil/day1.txt"
+-'  1  0  ~/nikhil/day1.txt
+|4,39,1,0,1702968182,"~/nikhil/day1.txt"
+-'  1  0  ~/nikhil/day1.txt
+|4,39,1,0,1702968162,"~/nikhil/day1.txt"
+-'  1  0  ~/nikhil/day1.txt
+|4,39,1,0,1702968162,"~/nikhil/day1.txt"
 -'  1  0  ~/nikhil/day1.txt
 |4,39,1,0,1702968162,"~/nikhil/day1.txt"
 -'  1  0  ~/nikhil/day1.txt
@@ -193,64 +249,15 @@
 |4,39,2,40,1702963477,"~/test1.txt"
 -'  2  40  ~/test1.txt
 |4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  2  40  ~/test1.txt
-|4,39,2,40,1702963477,"~/test1.txt"
--'  1  0  ~/test1.txt
-|4,39,1,0,1702963431,"~/test1.txt"
--'  1  0  ~/test1.txt
-|4,39,1,0,1702963431,"~/test1.txt"
--'  1  0  ~/test1.txt
-|4,39,1,0,1702963431,"~/test1.txt"
--'  1  0  ~/test1.txt
-|4,39,1,0,1702963431,"~/test1.txt"
--'  1  0  ~/test1.txt
-|4,39,1,0,1702963431,"~/test1.txt"
--'  1  0  ~/test1.txt
-|4,39,1,0,1702963431,"~/test1.txt"
--'  1  0  ~/test1.txt
-|4,39,1,0,1702963431,"~/test1.txt"
--'  1  0  ~/test1.txt
-|4,39,1,0,1702963431,"~/test1.txt"
--'  1  0  ~/test1.txt
-|4,39,1,0,1702963431,"~/test1.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/file1
+	*	1702980788	0
+	"	1	19
+	^	1	20
+	.	1	19
+	+	1	19
 
 > ~/nikhil/day2.txt
 	*	1702969471	0
